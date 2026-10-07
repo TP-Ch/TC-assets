@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-24",
+  "series": "03-field-work",
+  "format": "carousel",
+  "caption": "شفتي حجرة صغيرة مغروسة فحدود أرضك؟ ماتحيدهاش 👇\n\n1️⃣ هادي هي البورنة: كتبيّن فين كيبدا وفين كيسالي حد الأرض\n2️⃣ كيتحطو من طرف المهندسين المختصين فنهار التحديد، وكل وحدة مرتبطة برقم فالتصميم\n3️⃣ حيّدها، حتى بالغلط، كيبدل معالم الحدود الحقيقية وممكن يخلق نزاع مع الجار\n\n📌 سجّل هاد البوست وصيفطو لشي حد كيدير فلاحة ولا بناء حداها.\n💬 شفتي بورنة متحركة ولا ضايعة؟ راسلنا فالخاص.\n\nFR : La borne marque la limite officielle de votre terrain : ne la déplacez jamais, même par erreur, sous peine de créer un litige de voisinage.",
+  "hashtags": [
+    "#من_الميدان",
+    "#أراضي",
+    "#الشاوية",
+    "#terrain",
+    "#topochaouia"
+  ],
+  "alt_text": "صور فيها شرح بالدارجة على البورنة اللي كتحدد حدود أرض.",
+  "music_mood": null,
+  "story_plan": "- Frame 1: teaser of the post (story/01.png)\n- Frame 2: Poll sticker — \"واش عندك بورنة فأرضك؟ نعم / لا\" (story/02.png)",
+  "media": [
+    "slides\\01.png",
+    "slides\\02.png",
+    "slides\\03.png",
+    "slides\\04.png",
+    "slides\\05.png",
+    "slides\\06.png",
+    "story\\01.png",
+    "story\\02.png"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-25",
+  "series": "02-buyer-warnings",
+  "format": "reel",
+  "caption": "باغي تشري بوكالة (توكيل)؟ شوف شنو تبدل هاد الصيف 👇\n\n1️⃣ الوكالة خاصها تكون فصيغة رسمية عند موثق ولا عدول\n2️⃣ خاصها تكون مسجلة فسجل وطني إلكتروني قبل ما تستعمل فأي بيع\n3️⃣ المحافظة العقارية ما كتقبلش الملف إلا كانت الوكالة مسجلة\n\nهادشي عطا حماية إضافية، لكن ماشي سبب باش تخلي راسك مرتاح تماما.\n\n📌 سجّل هاد البوست وصيفطو لشي حد باغي يشري ولا يبيع بوكالة.\n💬 عندك سؤال على وكالة؟ راسلنا فالخاص.\n\nFR : Depuis cet été, la procuration immobilière doit être établie par un notaire ou des adouls et inscrite au registre national avant toute vente — une sécurité de plus, mais restez vigilants.",
+  "hashtags": [
+    "#شراء_أرض",
+    "#عقار",
+    "#الشاوية",
+    "#immobiliermaroc",
+    "#topochaouia"
+  ],
+  "alt_text": "فيديو قصير بالدارجة كيشرح القوانين الجديدة ديال الوكالة فالعقار.",
+  "music_mood": "serious",
+  "story_plan": "- Frame 1: teaser of the post (story/01.png)\n- Frame 2: Poll sticker — \"واش سمعتي بالقانون الجديد ديال الوكالة؟ نعم / لا\" (story/02.png)",
+  "media": [
+    "reel.mp4",
+    "cover.jpg",
+    "story\\01.png",
+    "story\\02.png"
+  ]
+}

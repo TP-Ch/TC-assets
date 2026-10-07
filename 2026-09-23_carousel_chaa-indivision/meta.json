@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-23",
+  "series": "04-land-law",
+  "format": "carousel",
+  "caption": "باغي تشري حصة فأرض مشاعة (شياع)؟ اقرا هادشي قبل 👇\n\n1️⃣ كل شريك عندو حصة فالأرض كاملة، ماشي فجزء محدد منها\n2️⃣ القرارات الكبار (بيع، بناء، تقسيم) كتطلب موافقة الشركاء أو الأغلبية\n3️⃣ إلا باع شريك حصتو، باقي الشركاء عندهم أولوية يشريوها (الشفعة)\n\n📌 سجّل هاد البوست وصيفطو لشي حد عندو أرض مشاعة.\n💬 عندك سؤال على أرضك المشاعة؟ راسلنا فالخاص.\n\nFR : Terrain en indivision : chaque copropriétaire détient une part de la totalité, les grandes décisions nécessitent l'accord des indivisaires, et un droit de préemption existe entre eux.",
+  "hashtags": [
+    "#القانون_العقاري",
+    "#عقار",
+    "#المغرب",
+    "#droitfoncier",
+    "#topochaouia"
+  ],
+  "alt_text": "صور فيها شرح بالدارجة لحقوق وواجبات الشركاء فأرض فالشياع.",
+  "music_mood": null,
+  "story_plan": "- Frame 1: teaser of the post (story/01.png)\n- Frame 2: Question sticker — \"واش عندك أرض مشاعة مع ورثة آخرين؟\" (story/02.png)",
+  "media": [
+    "slides\\01.png",
+    "slides\\02.png",
+    "slides\\03.png",
+    "slides\\04.png",
+    "slides\\05.png",
+    "slides\\06.png",
+    "story\\01.png",
+    "story\\02.png"
+  ]
+}

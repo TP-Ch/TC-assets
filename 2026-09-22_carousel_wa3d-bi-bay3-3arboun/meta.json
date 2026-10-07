@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-22",
+  "series": "02-buyer-warnings",
+  "format": "carousel",
+  "caption": "باغي دير وعد بالبيع؟ شوف شنو تبدل هاد الصيف 👇\n\n1️⃣ الوعد بالبيع خاصو يتكتب عند موثق ولا عدول من 16 يوليوز 2026\n2️⃣ العربون: إلا تراجع المشتري كيخسرو، إلا تراجع البائع كيرجعو ويعوض إلا كان التعويض متفق عليه فالعقد\n3️⃣ العقد خاصو يحدد الثمن، العربون، والأجل بالتفصيل\n\n📌 سجّل هاد البوست وصيفطو لشي حد غادي يدير وعد بالبيع.\n💬 عندك سؤال على وعد بالبيع؟ راسلنا فالخاص.\n\nFR : Depuis le 16 juillet 2026, la promesse de vente doit elle aussi être reçue par un notaire ou des adouls, comme la vente définitive.",
+  "hashtags": [
+    "#شراء_أرض",
+    "#عقار",
+    "#الشاوية",
+    "#immobiliermaroc",
+    "#topochaouia"
+  ],
+  "alt_text": "صور فيها شرح بالدارجة للوعد بالبيع والعربون فالعقار.",
+  "music_mood": null,
+  "story_plan": "- Frame 1: teaser of the post (story/01.png)\n- Frame 2: Poll sticker — \"واش سبق ليك ودعو بيك تخلص عربون بلا عقد واضح؟ نعم / لا\" (story/02.png)",
+  "media": [
+    "slides\\01.png",
+    "slides\\02.png",
+    "slides\\03.png",
+    "slides\\04.png",
+    "slides\\05.png",
+    "slides\\06.png",
+    "story\\01.png",
+    "story\\02.png"
+  ]
+}
