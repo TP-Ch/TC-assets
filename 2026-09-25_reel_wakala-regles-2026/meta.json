@@ -16,7 +16,7 @@
   "media": [
     "reel.mp4",
     "cover.jpg",
-    "story\\01.png",
-    "story\\02.png"
+    "story/01.png",
+    "story/02.png"
   ]
 }
